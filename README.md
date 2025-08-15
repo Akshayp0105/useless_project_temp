@@ -1,23 +1,23 @@
-LongCut Maps 🎯
+MapGo 🎯
 Basic Details
 Team Name: DevGeeks
 Team Members
 
-Team Lead: Akshay P – [Your College Name Here]
+Team Lead: Akshay P – TIST Kochi
 
-Member 2: Adithyan Biju – [Your College Name Here]
+Member 2: Adithyan Biju – TIST Kochi
 
 Project Description
 
-LongCut Maps is a parody of Google Maps that never gives you the shortest path. Instead, it calculates the longest possible route to your destination — perfect for spending more time with your crush, enjoying a road trip, or simply trolling your friends.
+MapGo is a parody navigation web app that refuses to give you the shortest route. Instead, it finds the longest possible way to your destination — perfect for long talks, road trip vibes, or pranking friends. You can even choose fun distance multipliers like 2x, 3x, or Crush Mode ❤️ to maximize detours while still reaching your destination… eventually.
 
 The Problem (that doesn't exist)
 
-People keep reaching their destination too quickly. How are you supposed to build suspense or have long romantic talks when Google Maps keeps cutting your trip short?
+Reaching your destination too quickly ruins the fun. How can you enjoy quality time or suspense if Google Maps keeps taking the shortest route?
 
 The Solution (that nobody asked for)
 
-We built LongCut Maps — a navigation app that deliberately picks the longest possible path to your destination. You can even select multipliers like 2x, 3x, or Crush Mode ❤️ for maximum detour enjoyment. It still gets you to your destination… eventually.
+We built MapGo, a map app that deliberately makes your trip longer. It calculates maximum-distance routes and lets you customize just how long you want to be on the road — because sometimes, wasting time is the point.
 
 Technical Details
 Technologies/Components Used
@@ -28,29 +28,68 @@ Languages: JavaScript, Python
 
 Frameworks: React.js (Frontend), FastAPI (Backend)
 
-Libraries: Leaflet.js (maps), Firebase Auth, Supabase, Axios
+Libraries: Leaflet.js, Firebase Auth, Supabase, Axios
 
-Tools: Vercel (Frontend deploy), PythonAnywhere/Render (Backend deploy), GitHub
+Tools: Vercel (Frontend deployment), Render/PythonAnywhere (Backend deployment), GitHub
 
 For Hardware:
 
-None — this is a 100% software-based prank navigation tool.
+None — 100% software.
 
 Implementation
-For Software:
 
 Installation
 
-# Clone repo
+# Clone the repo
 git clone https://github.com/Akshayp0105/mapgo
 
-# Install frontend dependencies
+# Frontend setup
 cd frontend
 npm install
 
-# Install backend dependencies
+# Backend setup
 cd ../backend
 pip install -r requirements.txt
+
+
+Run
+
+# Start frontend
+npm run dev
+
+# Start backend
+python app.py
+
+Project Documentation
+Screenshots
+
+![Screenshot1](Add screenshot link)
+Homepage showing map interface
+
+![Screenshot2](Add screenshot link)
+Route selection with "Crush Mode"
+
+![Screenshot3](Add screenshot link)
+Longest possible navigation path rendered on map
+
+Diagrams
+
+![Workflow](Add workflow diagram link)
+Flow of user input → backend route calculation → frontend display
+
+Project Demo
+Video
+
+[Add demo video link here]
+Demonstrates finding the longest route and using multipliers.
+
+Team Contributions
+
+Akshay P: Frontend development, UI/UX design, integration with Leaflet.js, Firebase setup
+
+Adithyan Biju: Backend development with FastAPI, route calculation logic, API integration
+
+Made with ❤️ at TinkerHub Useless Projects
 
 
 
