@@ -4,8 +4,8 @@
 ### Team Name: LongCut Legends
 
 ### Team Members
-- Team Lead: Akshay P - Toc H institute of science and technology
-- Member 2: Adithyan Biju -  Toc H institute of science and technology
+- Team Lead: AKSHAY P- TOC H INSTITUTE OF SCIENCE AND TECNOLOGY
+- Member 2: Adithyan Biju -  TOC H INSTITUTE OF SCIENCE AND TECNOLOGY
 
 ### Project Description
 LongCut Maps is a parody of Google Maps that **never gives you the shortest path**. Instead, it calculates the **longest possible** route to your destination — perfect for spending more time with your crush, enjoying a road trip, or simply trolling your friends.
