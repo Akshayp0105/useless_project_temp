@@ -1,102 +1,53 @@
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
-
-
-# [Project Name] 🎯
-
+# LongCut Maps 🎯
 
 ## Basic Details
-### Team Name: [Name]
-
+### Team Name: LongCut Legends
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Akshay P - Toc H institute of science and technology
+- Member 2: Adithyan Biju -  Toc H institute of science and technology
 
 ### Project Description
-[2-3 lines about what your project does]
+LongCut Maps is a parody of Google Maps that **never gives you the shortest path**. Instead, it calculates the **longest possible** route to your destination — perfect for spending more time with your crush, enjoying a road trip, or simply trolling your friends.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+People keep reaching their destination **too quickly**. How are you supposed to build suspense or have long romantic talks when Google Maps keeps cutting your trip short?
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We built LongCut Maps — a navigation app that *deliberately* picks the longest possible path to your destination. You can even select multipliers like **2x, 3x, or Crush Mode ❤️** for maximum detour enjoyment. It still gets you to your destination… eventually.
+
+---
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- **Languages:** JavaScript, Python  
+- **Frameworks:** React.js (Frontend), FastAPI (Backend)  
+- **Libraries:** Leaflet.js (maps), Firebase Auth, Supabase, Axios  
+- **Tools:** Vercel (Frontend deploy), PythonAnywhere/Render (Backend deploy), GitHub
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- None — this is a 100% software-based prank navigation tool.
 
 ---
-Made with ❤️ at TinkerHub Useless Projects 
 
-![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
-![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
+### Implementation
+
+#### For Software:
+
+**Installation**
+```bash
+# Clone repo
+git clone https://github.com/Akshayp0105/mapgo
+
+# Install frontend dependencies
+cd frontend
+npm install
+
+# Install backend dependencies
+cd ../backend
+pip install -r requirements.txt
+
 
 
 
